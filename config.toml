@@ -1,0 +1,4 @@
+baseURL = "http://cosmosnicolaou.com/"
+languageCode = "en-us"
+title = "Cosmos Nicolaou"
+theme = "hyde"

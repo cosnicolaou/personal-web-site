@@ -2,3 +2,9 @@ baseURL = ""
 languageCode = "en-us"
 title = "Cosmos Nicolaou"
 theme = "hyde"
+
+
+[params]
+  Description = "cosmos.nicolaou@gmail.com"
+  
+

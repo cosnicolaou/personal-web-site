@@ -8,7 +8,8 @@ pluralizelisttitles = "false"
 
 [params]
     author = "Calin Tataru"
-    description = "Consultant and Software Developer"
+    description = "Technology, Software and Leadership Consulting"
+    experienceSummary = "I have been fortunate to work in leadership positions at several notable and innovative companies ranging from startups, pre-IPO and public companies in the areas of distributed computing, computer networking, internet search, web properties, cloud computing and most recently next-generation DNA-sequencing."
     githubUsername = "cosnicolaou"
     accent = "red"
     showBorder = false

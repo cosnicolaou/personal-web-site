@@ -2,7 +2,7 @@
 
 <main>
 
-    <h2>{{ .Title }}</h2>
+    <p>{{ .Site.Params.ExperienceSummary }}</p>
 
     {{ range (.Paginator 5).Pages }} {{ partial "experience-list-item" . }} {{ end }}
 

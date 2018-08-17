@@ -1,4 +1,4 @@
-baseURL = "https://naughty-pike-fbef49.netlify.com"
+baseURL = "https://cosmosnicolaou.com"
 languageCode = "en-us"
 title = "Cos Nicolaou"
 theme = "minimal"
@@ -8,7 +8,7 @@ pluralizelisttitles = "false"
 
 [params]
     author = "Calin Tataru"
-    description = "Technology, Software and Leadership Consulting"
+    description = "Consultant and Software Developer"
     experienceSummary = "I have been fortunate to work in leadership positions at several notable and innovative companies ranging from startups, pre-IPO and public companies in the areas of distributed computing, computer networking, internet search, web properties, cloud computing and most recently next-generation DNA-sequencing."
     githubUsername = "cosnicolaou"
     accent = "red"

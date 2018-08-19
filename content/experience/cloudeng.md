@@ -10,4 +10,4 @@ weight: 0
 draft: false
 ---
 
-I now consult for variety of startups and more established companies [see](https://cloudeng.io).
+I now [consult](https://cloudeng.io) for variety of startups and more established companies.

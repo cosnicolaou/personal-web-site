@@ -6,3 +6,5 @@ draft: false
 
 I first used the internet (arpanet as it was called then) in 1983 and the world wide web in the very early 1990s. Eventually I've created a personal web site. Did I miss anything?
 
+I used [hugo](https://gohugo.io) to build this site and [netlify](netlify.com)
+to serve it.

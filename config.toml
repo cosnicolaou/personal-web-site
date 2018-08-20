@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Cos Nicolaou"
 theme = "minimal"
 #disqusShortname = "username" # delete this to disable disqus comments
-googleAnalytics = ""
+googleAnalytics = "UA-124186763-2"
 pluralizelisttitles = "false"
 
 [params]

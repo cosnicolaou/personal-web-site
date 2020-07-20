@@ -1,5 +1,7 @@
 [build]
-#HUGO_VERSION = "0.74.2"
+HUGO_VERSION = "0.74.2"
+HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
-#HUGO_VERSION = "0.74.2"
+HUGO_VERSION = "0.74.2"
+HUGO_ENABLEGITINFO = "true"

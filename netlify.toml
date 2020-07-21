@@ -1,5 +1,0 @@
-[build]
-HUGO_VERSION = "0.73"
-
-[context.production.environment]
-HUGO_VERSION = "0.73"
